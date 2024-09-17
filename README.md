@@ -22,8 +22,8 @@ Los usuarios pueden navegar por esta tabla para comparar precios y elegir el pro
 La base de datos se organiza en las siguientes tablas:
  **Productos**: Contiene información sobre los productos disponibles en la central de descuentos.
  **Supermercados**: Almacena los datos de los supermercados que participan en la central.
- **Ofertas**: Registra las ofertas aplicadas a los productos en cada tienda.
+ 
 
-![Diagrama de la base de datos](imagenes/diagrama.jpg)
+![Diagrama de la base de datos](Diagrama_de_base_de_datos.jpeg)
 
 Integrantes: Santiago Zin y Jose Otonello
